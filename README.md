@@ -1,13 +1,58 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Recipes App - Tão Tão Doce
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto colaborativo entre a equipe de desenvolvedores Frontend formada por:
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
++ Daniel Wolter (D-Wolter)
++ Christian Bechstadt (cbechstedt)
++ Pedro Santos (pedroshalom)
++ Teresa Marques (TeksMarques)
+
+A base de desenvolvimento foi React, Context Api e Boostrap.
+
+**Descrição**
+
+Foi desenvolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+
+Nele, é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
+
+A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
+
+O layout tem como foco dispositivos móveis.
+
+Demo: https://taotaodoce.vercel.app/
+
+### :nut_and_bolt: Tecnologias
+
+Esse projeto foi desenvolvido com a seguinte técnologias:
+
+- [React][reactjs]
+- [Context Api][reactjs]
+- [Hooks][reactjs]
+
+[reactjs]: https://reactjs.org
+
+# Habilidades
+
+Nesse projeto, foram verificadas as seguintes habilidades:
+
+  - Utilizar a Context API do React para gerenciar estado
+  - Utilizar o React Hook useState
+  - Utilizar o React Hook useContext
+  - Utilizar o React Hook useEffect
+
+#### :thinking: Como rodar
+
+```bash
+# Clone o repositório
+git clone https://github.com/limaluizpaulo/project-recipes-app/
+
+# Entre no diretório
+cd project-recipes-app
+
+# Instale as depedências
+npm install
+
+# Rode o projeto
+npm start
+```
+---
