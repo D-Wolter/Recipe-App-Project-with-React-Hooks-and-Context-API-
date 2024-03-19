@@ -20,7 +20,8 @@ A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 O layout tem como foco dispositivos móveis.
 
 Demo: https://taotaodoce.vercel.app/
-Para realizar o login no Demo tem de inserir quanlquer email no formato valido não precisa ser um email real, e qualquer senha de mais de 6 carecteres
+
+Para realizar o login no Demo tem de inserir qualquer email no formato válido, não precisa ser um email real, e qualquer senha com mais de 6 carecteres.
 
 ### :nut_and_bolt: Tecnologias
 
